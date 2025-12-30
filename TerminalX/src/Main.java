@@ -11,7 +11,7 @@ public class Main {
             switch (task){
                 case 1: loadingBar loadingBar = new loadingBar();
                         loadingBar.loadingBar();
-                    System.out.println("Loading Complete");
+                    System.out.println(" Loading Complete");
                         break;
                 case 2:
                     randomWords randomWords = new randomWords();
